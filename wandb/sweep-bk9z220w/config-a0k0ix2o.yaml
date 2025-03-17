@@ -1,0 +1,12 @@
+wandb_version: 1
+
+batch_size:
+  value: 32
+hidden_size:
+  value: 128
+learning_rate:
+  value: 0.009711186789534126
+num_layers:
+  value: 1
+optimizer:
+  value: adam

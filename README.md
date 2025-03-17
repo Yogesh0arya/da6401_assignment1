@@ -53,12 +53,21 @@ pip install -r requirements.txt
 The repository is organized as follows:
 
 da6401_assignment1/
+
 ├── main.py               # Main script to train the model
+
 ├── requirements.txt       # List of dependencies
+
 ├── README.md              # This file is Readme file
+
 ├── report.pdf             # This file is report
-├── .git                   # This file is of git
+
 └── wandb/                 # Wandb logs and sweep configurations
+
+├── .git                   # This file is of git
+
+├── Problem statement.pdf  # This file is of problem statement
+
 
 
 # Hyperparameter Tuning
