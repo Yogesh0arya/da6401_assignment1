@@ -2,7 +2,7 @@ GitHub Repository:
 https://github.com/Yogesh0arya/da6401_assignment1
 
 Report link: 
-https://wandb.ai/yogesh084arya-indian-institute-of-technology-madras/DA6401-Assignment1/reports/DA6401-Assignment-1--VmlldzoxMTcwOTgwNw/edit?draftId=VmlldzoxMTcwOTgwNw==
+[https://wandb.ai/yogesh084arya-indian-institute-of-technology-madras/DA6401-Assignment1/reports/DA6401-Assignment-1--VmlldzoxMTcwOTgwNw/edit?draftId=VmlldzoxMTcwOTgwNw==](https://wandb.ai/yogesh084arya-indian-institute-of-technology-madras/DA6401-Assignment1/reports/DA6401-Assignment-1--VmlldzoxMTcwOTgwNw)
 
 # README for DA6401 Assignment 1
 This repository contains the code and report for DA6401 Assignment 1, which involves implementing a feedforward neural network from scratch, training it on the Fashion-MNIST dataset, and tracking experiments using Weights & Biases (wandb). The goal of the assignment is to implement backpropagation, experiment with various optimization algorithms, and perform hyperparameter tuning to achieve the best validation accuracy.
